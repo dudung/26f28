@@ -57,3 +57,4 @@ Everything up-to-date
 ## 15-jun-2026
 + 1048 Try at work to download the files again.
 + 1049 Commit.
++ 1728 Fin conclict.
