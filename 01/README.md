@@ -2,7 +2,7 @@
 home exp-dishes
 
 
-## 12-june-2026
+## 14-june-2026
 Three different toppings
 
 ![](WhatsApp Image 2026-06-14 at 07.32.27.jpeg)
@@ -53,3 +53,7 @@ Everything up-to-date
 ```
 + 0918 Ask GPT-5.5
 
+
+## 15-jun-2026
++ 1048 Try at work to download the files again.
++ 1049 Commit.
