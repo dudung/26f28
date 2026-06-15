@@ -32,3 +32,7 @@ Everything up-to-date
 HEAD is now at 58ddf76 update 01
 26f28 %
 ```
+
+## 15-jun-2026
++ 1048 Try at work to download the files again.
++ 1049 Commit.
